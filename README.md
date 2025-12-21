@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vanshika Aggarwal</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full-stack developer from India</h3>
 
 - 👨‍💻 All of my projects are available at [https://portfolio-phi-woad-0qa557bqqx.vercel.app/](https://portfolio-phi-woad-0qa557bqqx.vercel.app/)
 

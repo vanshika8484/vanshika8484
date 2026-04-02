@@ -33,6 +33,13 @@
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react native" width="40" height="40"/>
 </a>
+<a href="https://vercel.com/" target="_blank" rel="noreferrer">
+  <img src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" alt="vercel" width="40" height="40"/>
+</a>
+
+<a href="https://render.com/" target="_blank" rel="noreferrer">
+  <img src="https://avatars.githubusercontent.com/u/2810941?s=200&v=4" alt="render" width="40" height="40"/>
+</a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vanshika8484&show_icons=true&locale=en&layout=compact" alt="vanshika8484" /></p>
